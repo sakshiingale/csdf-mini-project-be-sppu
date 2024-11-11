@@ -1,0 +1,6 @@
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'log.py' is not available in the target directory.
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'abc.txt' is not available in the target directory.
